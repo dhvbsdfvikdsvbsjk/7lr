@@ -1,0 +1,13 @@
+C:\Users\usersql\source\repos\aa\aa\bin\Debug\aa.exe.config
+C:\Users\usersql\source\repos\aa\aa\bin\Debug\aa.exe
+C:\Users\usersql\source\repos\aa\aa\bin\Debug\aa.pdb
+C:\Users\usersql\source\repos\aa\aa\obj\Debug\aa.csproj.AssemblyReference.cache
+C:\Users\usersql\source\repos\aa\aa\obj\Debug\aa.Form1.resources
+C:\Users\usersql\source\repos\aa\aa\obj\Debug\aa.Properties.Resources.resources
+C:\Users\usersql\source\repos\aa\aa\obj\Debug\aa.csproj.GenerateResource.cache
+C:\Users\usersql\source\repos\aa\aa\obj\Debug\aa.csproj.CoreCompileInputs.cache
+C:\Users\usersql\source\repos\aa\aa\obj\Debug\aa.exe
+C:\Users\usersql\source\repos\aa\aa\obj\Debug\aa.pdb
+C:\Users\usersql\source\repos\aa\aa\obj\Debug\aa.Form2.resources
+C:\Users\usersql\source\repos\aa\aa\obj\Debug\aa.Form3.resources
+C:\Users\usersql\source\repos\aa\aa\obj\Debug\aa.Form4.resources
